@@ -23,7 +23,8 @@ The dataset contains 20 fictional student records with the following attributes:
 Python
 
 ## Files
-- student_dataset.ipynb: Python source code.
-- student_dataset.csv: Generated student dataset.
+- student_dataset.py: Python source code.
+- screenshots showing the program output.
+
 
 
